@@ -1,0 +1,7 @@
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP\bin\Debug\KursProjectSP.dll.config
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP\bin\Debug\KursProjectSP.dll
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP\bin\Debug\KursProjectSP.pdb
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP\obj\Debug\KursProjectSP.csproj.AssemblyReference.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP\obj\Debug\KursProjectSP.csproj.CoreCompileInputs.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP\obj\Debug\KursProjectSP.dll
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP\obj\Debug\KursProjectSP.pdb

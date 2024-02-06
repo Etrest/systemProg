@@ -1,0 +1,8 @@
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\bin\Debug\BellmanFord.exe.config
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\bin\Debug\BellmanFord.exe
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\bin\Debug\BellmanFord.pdb
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\obj\Debug\BellmanFord.csproj.AssemblyReference.cache
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\obj\Debug\BellmanFord.csproj.SuggestedBindingRedirects.cache
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\obj\Debug\BellmanFord.csproj.CoreCompileInputs.cache
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\obj\Debug\BellmanFord.exe
+E:\Для учебы\4 семестр\СП\BellmanFord-master\BellmanFord\obj\Debug\BellmanFord.pdb

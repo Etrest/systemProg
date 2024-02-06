@@ -1,0 +1,16 @@
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\bin\Release\WpfApp1.exe.config
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\bin\Release\WpfApp1.exe
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\bin\Release\WpfApp1.pdb
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.csproj.AssemblyReference.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\MainWindow.g.cs
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\App.g.cs
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\MainWindow.baml
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.g.resources
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.exe
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Release\WpfApp1.pdb

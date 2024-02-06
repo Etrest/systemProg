@@ -1,0 +1,48 @@
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\App.g.cs
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\MainWindow.baml
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Для учебы\4 семестр\СП\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\App.g.cs
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\CoolMaster\Downloads\KursProjectSP\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\App.g.cs
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\MainWindow.baml
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\WpfApp1\obj\Debug\WpfApp1.pdb

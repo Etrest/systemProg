@@ -1,0 +1,7 @@
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\KursProjectSP\bin\Release\KursProjectSP.dll.config
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\KursProjectSP\bin\Release\KursProjectSP.dll
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\KursProjectSP\bin\Release\KursProjectSP.pdb
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\KursProjectSP\obj\Release\KursProjectSP.csproj.AssemblyReference.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\KursProjectSP\obj\Release\KursProjectSP.csproj.CoreCompileInputs.cache
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\KursProjectSP\obj\Release\KursProjectSP.dll
+E:\Для учебы\4 семестр\СП\KursProjectSP\KursProjectSP2\KursProjectSP\KursProjectSP\obj\Release\KursProjectSP.pdb
